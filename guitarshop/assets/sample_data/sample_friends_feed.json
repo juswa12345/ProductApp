@@ -1,0 +1,64 @@
+{
+    "feed": [
+        {
+            "id": "1",
+            "profileImageUrl": "assets/profile_pics/person_cesare.jpeg",
+            "comment": "This Guitar is awesome will recommend",
+            "timestamp": "10"
+        },
+        {
+            "id": "2",
+            "profileImageUrl": "assets/profile_pics/person_stef.jpeg",
+            "comment": "Saw this Guitars Online and this helps me a lot",
+            "timestamp": "80"
+        },
+        {
+            "id": "3",
+            "profileImageUrl": "assets/profile_pics/person_crispy.png",
+            "comment": "I buy the Les Paul Today!",
+            "timestamp": "20"
+        },
+        {
+            "id": "4",
+            "profileImageUrl": "assets/profile_pics/person_joe.jpeg",
+            "comment": "Rock and Roll",
+            "timestamp": "30"
+        },
+        {
+            "id": "5",
+            "profileImageUrl": "assets/profile_pics/person_katz.jpeg",
+            "comment": "I recommend everyone to test how they feel for the nest experience of the guitar",
+            "timestamp": "40"
+        },
+        {
+            "id": "6",
+            "profileImageUrl": "assets/profile_pics/person_kevin.jpeg",
+            "comment": "My Inspiration if Jimmy Hendrix so I'm looking for the good Strat...",
+            "timestamp": "50"
+        },
+        {
+            "id": "7",
+            "profileImageUrl": "assets/profile_pics/person_sandra.jpeg",
+            "comment": "Rest in Peace Hendrix Rock and Roll!",
+            "timestamp": "50"
+        },
+        {
+            "id": "8",
+            "profileImageUrl": "assets/profile_pics/person_manda.png",
+            "comment": "Look at my review on my Youtube Channel",
+            "timestamp": "60"
+        },
+        {
+            "id": "9",
+            "profileImageUrl": "assets/profile_pics/person_ray.jpeg",
+            "comment": "Telecaster for the Best guitar of the Year!",
+            "timestamp": "70"
+        },
+        {
+            "id": "10",
+            "profileImageUrl": "assets/profile_pics/person_tiffani.jpeg",
+            "comment": "if you want versatility Go for PRS",
+            "timestamp": "90"
+        }
+    ]
+}

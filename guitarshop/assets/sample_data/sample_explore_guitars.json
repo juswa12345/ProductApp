@@ -1,0 +1,17 @@
+{
+    "guitars": [
+        {
+            "id": "1",
+            "cardType": "card1"
+        },
+        {
+            "id": "2",
+            "cardType": "card2"
+
+        },
+        {
+            "id": "3",
+            "cardType": "card1"
+        }
+    ]
+}

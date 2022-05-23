@@ -1,0 +1,207 @@
+
+{
+    "guitars": [
+        {
+            "id": "335SC",
+            "guitarImage": "assets/guitar_pics/guitar_335.jpg",
+            "title": "Single Cut 335 Guitar",
+            "type": "Electric",
+            "source": "Gibson",
+            "information": [
+                "Genre: Country, Jazz",
+                "Price: $1,350 to $30,000",
+                "Origin: USA",
+                "Skill Level: Intermediate"
+            ],
+            "reviews" : 4,
+            "price" : [
+                30000,
+                15000,
+                10000
+            ],
+            "detailedInformation" : "Released by Gibson in 1958, the ES-335 was the first thinline semi-hollow body electric guitar. The Gibson ES-335 is an archtop guitar equipped with two hollow chambers separated by a solid maple wood block running down its center, and twin humbuckers. The maple block provides the ES-335 with a hybrid solid/hollow body perfect for jazz and blues musicians."
+        },
+        {
+            "id": "ACSTRAT",
+            "guitarImage": "assets/guitar_pics/guitar_acosutasonis.jpg",
+            "title": "Acoustasonic Stratocaster",
+            "type": "Acoustic-Electric",
+            "source": "Fender",
+            "information": [
+                "Genre: Pop, Jazz",
+                "Price: $1,000 to $20,000",
+                "Origin: USA",
+                "Skill Level: Beginner"
+            ],
+            "reviews" : 3,
+            "price" : [
+                20000,
+                10000,
+                5000
+            ],
+            "detailedInformation" : "The newest addition to Fender's Acoustasonic family of instruments is the Acoustasonic Stratocaster. This powerful acoustic-electric hybrid gives you all you need to blend between guns-blazing rock and country leads and a veritable studio's worth of modeled acoustic tones, all with the comfort you expect from today's Custom Shop Strats. Sound too good to be true? Trust us: these guitars are worth the hype. Whether you're a Nashville session player or a Sunday music leader, the Acoustasonic Strat packs a wealth of great tones in its svelte frame. Fender's comfortable spruce-on-mahogany SIRS Strat body is built to resonate like an acoustic instrument without succumbing to the feedback issues of other stage acoustics. And its Modern Deep C mahogany neck provides effortless electric-like playability up and down the fingerboard. Acoustasonic's bleeding-edge 3-pickup system — a real Fender N4 Noiseless magnetic single-coil paired with a Fishman Matrix undersaddle system and percussive body-top pickup — takes you from Texas sugar to six distinct acoustic tones with the flick of a switch. Powering it all is a 20-hour rechargeable battery that supports simultaneous charge-and-play for non-stop musicmaking wherever you play out."
+
+        },
+        {
+            "id": "FLYV",
+            "guitarImage": "assets/guitar_pics/guitar_flyingV.jpg",
+            "title": "Flying V",
+            "type": "Electric",
+            "source": "Gibson",
+            "information": [
+                "Genre: Rock, Metal",
+                "Price: $450 to $5000",
+                "Origin: USA",
+                "Skill Level: Expert"
+            ],
+            "reviews" : 2,
+            "price" : [
+                5000,
+                2000,
+                450
+            ],
+            "detailedInformation" : "The Gibson Flying V is an electric guitar model introduced by Gibson in 1958. The Flying V offered a radical, \"futuristic\" body design, much like its siblings: the Explorer, which was released the same year, and the Moderne, which was designed in 1957 but not released until 1982. The initial run of guitars used a distinctive wood of the Limba tree marketed by Gibson under the trade name \"korina\"; later models used more conventional woods."
+        },
+        {
+            "id": "LP1990",
+            "guitarImage": "assets/guitar_pics/guitar_lespaul.jpg",
+            "title": "Lespaul 1990's",
+            "type": "Electric",
+            "source": "Gibson",
+            "information": [
+                "Genre: Rock, Metal, Pop",
+                "Price: $450 to $3000",
+                "Origin: USA",
+                "Skill Level: Intermediate"
+            ],
+            "reviews" : 4,
+            "price" : [
+                3000,
+                1000,
+                450
+            ],
+            "detailedInformation" : "The Gibson Les Paul is a solid body electric guitar that was first sold by the Gibson Guitar Corporation in 1952. The guitar was designed by factory manager John Huis and his team with input from and endorsement by guitarist Les Paul. Its typical design features a solid mahogany body with a carved maple top and a single cutaway, a mahogany set-in neck with a rosewood fretboard, two pickups with independent volume and tone controls, and a stoptail bridge, although variants exist."
+        },
+        {
+            "id": "CLCACS",
+            "guitarImage": "assets/guitar_pics/guitar_nylonAcoustic.jpg",
+            "title": "Nylon Acoustic",
+            "type": "Acoustic",
+            "source": "Fender",
+            "information": [
+                "Genre: Classical",
+                "Price: $150 - $1000",
+                "Origin: Italy",
+                "Skill Level: Intermediate"
+            ],
+            "reviews" : 4,
+            "price" : [
+                1000,
+                500,
+                150
+            ],
+            "detailedInformation" : "The classical guitar (also known as the nylon-string guitar or Spanish guitar) is a member of the guitar family used in classical music and other styles. An acoustic wooden string instrument with strings made of gut or nylon, it is a precursor of the modern acoustic and electric guitars, both of which use metal strings. Classical guitars derive from the Spanish vihuela and gittern of the fifteenth and sixteenth century. Those instruments evolved into the seventeenth and eighteenth-century baroque guitar—and by the mid-nineteenth century, early forms of the modern classical guitar."
+            
+        },
+        {
+            "id": "STRAT",
+            "guitarImage": "assets/guitar_pics/guitar_strat.jpg",
+            "title": "Stratocaster",
+            "type": "Electric",
+            "source": "Fender",
+            "information": [
+                "Genre: Pop, Rock",
+                "Price: $1000 - $6000",
+                "Origin: USA",
+                "Skill Level: Beginner"
+            ],
+            "reviews" : 5,
+            "price" : [
+                6000,
+                3000,
+                1500
+            ],
+            "detailedInformation" : "The Fender Stratocaster, colloquially known as the Strat, is a model of electric guitar designed from 1952 into 1954 by Leo Fender, Bill Carson, George Fullerton, and Freddie Tavares. The Fender Musical Instruments Corporation has continuously manufactured the Stratocaster since 1954. It is a double-cutaway guitar, with an extended top \"horn\" shape for balance. Along with the Gibson Les Paul, Gibson SG, and Fender Telecaster, it is one of the most-often emulated electric guitar shapes.[1][2] \"Stratocaster\" and \"Strat\" are trademark terms belonging to Fender. Guitars that duplicate the Stratocaster by other manufacturers are sometimes called S-Type or ST-type guitars."
+        },
+        {
+            "id": "TELE",
+            "guitarImage": "assets/guitar_pics/guitar_telecaster.jpg",
+            "title": "Telecaster",
+            "type": "Electric",
+            "source": "Fender",
+            "information": [
+                "Genre: Pop, Rock, Classical",
+                "Price: $3500 - $10000",
+                "Origin: USA",
+                "Skill Level: Beginner"
+            ],
+            "reviews" : 5,
+            "price" : [
+                10000,
+                5000,
+                3500
+            ],
+            "detailedInformation" : "The Fender Telecaster, colloquially known as the Tele /ˈtɛli/, is, an electric guitar produced by Fender. Together with its sister model the Esquire, it is the world's first mass-produced, commercially successful[note 1] solid-body electric guitar. Its simple yet effective design and revolutionary sound broke ground and set trends in electric guitar manufacturing and popular music."
+        },
+        {
+            "id": "PRSSE",
+            "guitarImage": "assets/guitar_pics/guitar_prs.jpg",
+            "title": "PRS SE Custom 24",
+            "type": "Electric",
+            "source": "Paul Reed Smith",
+            "information": [
+                "Genre: Rock, Metal",
+                "Price: $900 - $3500",
+                "Origin: USA",
+                "Skill Level: Intermediate"
+            ],
+            "reviews" : 4,
+            "price" : [
+                3500,
+                2000,
+                900
+            ],
+            "detailedInformation" : "The SE Custom 24 brings the original PRS design platform to the high-quality, more affordable SE line up of instruments. Played by internationally touring artists, gigging musicians, and aspiring players, the SE Custom 24 features a maple top, mahogany back, wide thin maple neck, rosewood fretboard with bird inlays, and the PRS patented molded tremolo bridge. Its versatile sounds come from the 85/15 “S” pickups paired with a volume, push/pull tone control, and 3-way blade pickup selector."
+        },
+        {
+            "id": "THBB10",
+            "guitarImage": "assets/guitar_pics/guitar_ybanez.jpg",
+            "title": "Ybanez THBB10",
+            "type": "Electric",
+            "source": "Ybanez Tim Henson",
+            "information": [
+                "Genre: Math Rock, Metal",
+                "Price: $1000 - $2000",
+                "Origin: USA",
+                "Skill Level: Expert"
+            ],
+            "reviews" : 5,
+            "price" : [
+                2000,
+                1500,
+                1000
+            ],
+            "detailedInformation" : "The THBB10 is an AZ series solid body electric guitar model introduced by Ibanez for 2019. It is the first Ibanez signature model for American guitarist Tim Henson of the instrumental rock band Polyphia. It is produced in Indonesia as part of the mid-tier Premium line."
+        },
+        {
+            "id": "EBMMJPM7",
+            "guitarImage": "assets/guitar_pics/guitar_eb.jpg",
+            "title": "EB Music Man JP Majesty",
+            "type": "Electric",
+            "source": "Earnie Ball John Petrucci",
+            "information": [
+                "Genre: Math Rock, Metal",
+                "Price: #3000 - $6000",
+                "Origin: USA",
+                "Skill Level: Expert"
+            ],
+            "reviews" : 4,
+            "price" : [
+                6000,
+                4000,
+                3000
+            ],
+            "detailedInformation" : "The Majesty is the result of John's unwavering demand for high-performance and playability. One of the most well-balanced and innovative instruments available, the Majesty features a neck-through-body design, unparalleled upper fret access, ergonomic in-line control knob placement, and an advanced pickup switching system, which effectively eliminates the delay between pickup selection. The Majesty is the exemplification of everything we know a John Petrucci signature model to be - innovative technology, versatile performance, and a sleek modern feel."
+        }
+    ]
+}
